@@ -50,9 +50,9 @@ public class HelloAndroidActivity extends Activity {
 	
 	// ----------------------------------------
 		static String host = "bcs.duapp.com";
-		static String accessKey = "B93140bc2ee59972fe94a18221266421";
-		static String secretKey = "EAe9c7410a2d3ca82cf08f1138ada98e";
-		static String bucket = "weplay";
+		static String accessKey = "xxx";
+		static String secretKey = "xx";
+		static String bucket = "xx";
 		// ----------------------------------------
 		static String object = "/log/2013-10-17/aaaaa/aaaaaaa.log";
 		static File destFile = new File("test");
