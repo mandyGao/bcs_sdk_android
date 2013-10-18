@@ -4,3 +4,7 @@
 /library/.classpath
 /library/.project
 /target
+/.project
+/bin
+/.settings
+/.classpath
