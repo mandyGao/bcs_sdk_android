@@ -11,7 +11,7 @@ public class Logger {
 	public static int LEVEL_ERROR = 4;
 
 	private String tag;
-	private int level = 0;
+	private int level = LEVEL_ERROR;
 
 	public Logger(String tag) {
 		super();
